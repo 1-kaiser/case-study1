@@ -1,0 +1,64 @@
+<div class="col-md-4">
+          <div class="card-custom rounded-4" style="width: 18rem;" data-aos="fade-up">
+            <img src="./assets/images/romance.jpg" class="card-img-top rounded-4 pb-3" alt="...">
+            <div class="card-body">
+              <h5 class="card-title px-1 pb-3 fw-bold">Romance</h5>
+              <p class="card-text px-1" style="font-size: small;">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <div class="pb-2">
+              <a href="#" class="btn-custom btn-primary" style="font-size: small;">Go somewhere</a>
+            </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card-custom rounded-4" style="width: 18rem;" data-aos="fade-up" data-aos-delay="300">
+            <img src="./assets/images/romance.jpg" class="card-img-top rounded-4 pb-3" alt="...">
+            <div class="card-body">
+              <h5 class="card-title px-1 pb-3 fw-bold">Comedy</h5>
+              <p class="card-text px-1">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <div class="pb-2">
+              <a href="#" class="btn-custom btn-primary" style="font-size: small;">Go somewhere</a>
+            </div>
+            </div>
+          </div>
+        </div> 
+
+        <div class="col-md-4">
+          <div class="card-custom rounded-4" style="width: 18rem;" data-aos="fade-up" data-aos-delay="600">
+            <img src="./assets/images/romance.jpg" class="card-img-top rounded-4 pb-3" alt="...">
+            <div class="card-body">
+              <h5 class="card-title px-1 pb-3 fw-bold">Rom-Com</h5>
+              <p class="card-text px-1" style="font-size: small;">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <div class="pb-2">
+              <a href="#" class="btn-custom btn-primary" style="font-size: small;">Go somewhere</a>
+            </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 mt-4">
+          <div class="card-custom rounded-4" style="width: 18rem;" data-aos="fade-up" data-aos-delay="1">
+            <img src="./assets/images/romance.jpg" class="card-img-top rounded-4 pb-3" alt="...">
+            <div class="card-body">
+              <h5 class="card-title px-1 pb-3 fw-bold">Horror</h5>
+              <p class="card-text px-1" style="font-size: small;">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <div class="pb-2">
+              <a href="#" class="btn-custom btn-primary" style="font-size: small;">Go somewhere</a>
+            </div>
+            </div>
+          </div>
+        </div>  
+
+        <div class="col-md-4 mt-4">
+          <div class="card-custom rounded-4" style="width: 18rem;" data-aos="fade-up" data-aos-delay="1">
+            <img src="./assets/images/romance.jpg" class="card-img-top rounded-4 pb-3" alt="...">
+            <div class="card-body">
+              <h5 class="card-title px-1 pb-3 fw-bold">Mystery</h5>
+              <p class="card-text px-1" style="font-size: small;">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <div class="pb-2">
+              <a href="#" class="btn-custom btn-primary" style="font-size: small;">Go somewhere</a>
+            </div>
+            </div>
+          </div>
+        </div> 

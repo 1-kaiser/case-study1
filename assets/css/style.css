@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Shantell+Sans:ital,wght@1,600&display=swap');
+
+/* 
+font-family: 'Poppins', sans-serif;
+font-family: 'Shantell Sans', cursive;
+*/
+
+
+
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* NAV */
+.title-brand {
+    font-family: 'Shantell Sans', cursive;
+}
+
+.nav-link {
+    font-size: small;
+}
+/* NAV */
+
+/* LANDING PAGE */
+.carousel-item {
+    height: 45.7vw;
+    
+}
+
+.carousel-caption {
+    bottom: 240px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.carousel-caption h5 {
+    font-family: 'Shantell Sans', cursive;
+    font-size: 38px;
+}
+
+.carousel-caption p {
+    font-size: 11px;
+}
+
+
+.carousel-item::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgb(0, 0, 0);
+    opacity: .7;
+}
+/* LANDING PAGE */
+
+.btn-custom {
+    text-decoration: none;
+    color: orange;
+}

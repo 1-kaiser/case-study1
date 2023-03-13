@@ -60,7 +60,21 @@ body {
 }
 /* LANDING PAGE */
 
-.btn-custom {
-    text-decoration: none;
-    color: orange;
+
+
+
+
+
+
+
+
+
+.btn {
+    font-size: small;
+    border: 1px solid;
 }
+
+.btn:hover {
+    color: rgb(245, 196, 106);
+}
+

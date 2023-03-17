@@ -61,14 +61,7 @@ body {
 /* LANDING PAGE */
 
 
-
-
-
-
-
-
-
-
+/* 2nd page */
 .btn {
     font-size: small;
     border: 1px solid;
@@ -77,4 +70,21 @@ body {
 .btn:hover {
     color: rgb(245, 196, 106);
 }
+/* 2nd page */
 
+
+.footer {
+    background-color: rgb(177, 176, 176);
+}
+
+
+.foot-p {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* icons */
+.fa-brands {
+    color: rgb(29, 29, 29);
+}
